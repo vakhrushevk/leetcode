@@ -4,3 +4,11 @@ github.com/vakhrushevk/leetcode/duplicateInteger/hashDuplicate.go:6.32,7.29 1 1
 github.com/vakhrushevk/leetcode/duplicateInteger/hashDuplicate.go:7.29,9.4 1 1
 github.com/vakhrushevk/leetcode/duplicateInteger/hashDuplicate.go:10.3,10.25 1 1
 github.com/vakhrushevk/leetcode/duplicateInteger/hashDuplicate.go:13.2,13.14 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:3.41,4.22 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:4.22,6.3 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:7.2,9.22 2 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:9.22,11.3 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:13.2,13.22 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:13.22,15.19 2 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:15.19,17.4 1 1
+github.com/vakhrushevk/leetcode/isAnagram/isAnagram.go:20.2,20.13 1 1

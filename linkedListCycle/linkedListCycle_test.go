@@ -1,4 +1,4 @@
-package LinkedListCycle
+package linkedListCycle
 
 import (
 	"github.com/stretchr/testify/require"

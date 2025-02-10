@@ -1,4 +1,4 @@
-package LinkedListCycle
+package linkedListCycle
 
 type ListNode struct {
 	Next *ListNode
